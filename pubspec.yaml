@@ -1,0 +1,75 @@
+name: homework
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/danang.png
+    - assets/images/banner.png
+    - assets/images/a.png
+    - assets/images/b.png
+    - assets/images/c.png
+    - assets/images/d.png
+    - assets/images/e.png
+    - assets/images/f.png
+    - assets/images/g.png
+    - assets/images/h.png
+    - assets/images/i.png
+    - assets/images/k.png
+    - assets/images/l.png
+    - assets/images/m.png
+    - assets/images/n.png
+    - assets/images/keyboard.png
+    - assets/images/tuantran.png
+    - assets/images/emmy.png
+    - assets/images/linh.png
+    - assets/images/khai.png
+    - assets/images/aa.png
+    - assets/images/bb.png
+    - assets/images/123.png
+    - assets/images/call.png
+    - assets/images/facebook.png
+    - assets/images/google.png
+    - assets/images/twit.png
+    - assets/images/talk.png
+    - assets/images/caurong.png
+    - assets/images/dan.png
+    - assets/images/thai.png
+    - assets/images/nenn.png
+    - assets/images/hokiem.png
+    - assets/images/lang.png
+    - assets/images/nhatho.png
+    - assets/images/vanmieu.png
+    - assets/images/dinhdoc.png
